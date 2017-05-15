@@ -25,7 +25,7 @@ Keep this section brief and succinct. Explain your content plan in detail in one
 				<li>The third section will contain biographical information about the subject's background, education, experience and interests. Verbiage is more important here, with very specific references to skills, degrees, crafts, networks and interests. Although visuals are less important here, they should be more plentiful (thumbnails or galleries on pass-through) and more specific to enhance the verbiage as a footnote would do in a research paper. Branding is minimalist in this section.</li>
 				<li>The fourth and final section is for contacting the subject. This section will be minimalistic so as not to intimidate the visitor. A well chosen, solitary image that makes the visitor grin is included. A quote, chosen by the subject, stands alone on the page. The focus of this section is to be as inviting to the visitor as possible as well as to provide fodder for discussion in any initial contact between the parties. Branding on this section should be subliminal. After submitting the online form, the visitor will be directed to an animated gif or other visually engaging feature that thanks the visitor and also imprints the overall branding of the site.</li>
 			</ol>
-		</br>
+		<p></p>
 			<h3>Wireframes</h3>
 			<!--One mobile and one desktop wireframe will be required for your project.
 
@@ -38,8 +38,13 @@ Format choices for your wireframes may include, but are not limited to, the foll
 Place your wireframe images in your milestone-2.php document. Image files must be less than 2MB in size, and in SVG, JPEG, PNG, or GIF format.
 -->
 			<h4>Mobile Wireframe</h4>
-
+			<img src="../images/pwp-mobile-1.png">
+			<img src="../images/pwp-mobile-3.png">
 			<h4>Desktop Wireframe</h4>
+			<img src="../images/pwp-desktop-1.png">
+			<img src="../images/pwp-desktop-2.png">
+			<img src="../images/pwp-desktop-3.png">
+			<img src="../images/pwp-desktop-4.png">
 		</main>
 	</body>
 </html>

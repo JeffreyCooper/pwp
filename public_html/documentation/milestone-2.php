@@ -38,13 +38,13 @@ Format choices for your wireframes may include, but are not limited to, the foll
 Place your wireframe images in your milestone-2.php document. Image files must be less than 2MB in size, and in SVG, JPEG, PNG, or GIF format.
 -->
 			<h4>Mobile Wireframe</h4>
-			<img src="../../images/mobile1.png">
-			<img src="../../images/mobile2.png">
+			<img src="images-documentation/mobile1.png">
+			<img src="images-documentation/mobile2.png">
 			<h4>Desktop Wireframe</h4>
-			<img src="../../images/desktop1.png">
-			<img src="../../images/desktop2.png">
-			<img src="../../images/desktop3.png">
-			<img src="../../images/desktop4.png">
+			<img src="images-documentation/desktop1.png">
+			<img src="images-documentation/desktop2.png">
+			<img src="images-documentation/desktop3.png">
+			<img src="images-documentation/desktop4.png">
 		</main>
 	</body>
 </html>

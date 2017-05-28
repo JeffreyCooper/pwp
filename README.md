@@ -19,3 +19,16 @@ Your Milestone 1 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/pe
 
 ### Edits &amp; Suggestions
 - Delete the Jekyll configuration file in the root of your project (*\_config.yml*) - we won't be using Jekyll for PWP.
+
+## Milestone 2&alpha; Feedback
+Excellent work on the wireframes. These are detailed and well thought out, and should provide you with a good roadmap to guide your development. Nice work.
+
+One question I have for you is regarding the horizontal list of links at the top of the Experience section on the mobile view. How do you intend this to function? And I do want to caution you regarding this since horizontal screen space is limited on mobile, and highly variable depending on device (for example, an iPhone 5 vs. Google Pixel).
+
+I see that there are some sections that are included on mobile that are not included on the wide-screen layout. Bootstrap has some very useful [Responsive Utility Classes](http://getbootstrap.com/css/#responsive-utilities) that will display or hide an element (and it's children) on specific breakpoints.
+
+Overall I think you've made some great choices here, and I look forward to seeing your project take shape. Your Milestone 2&alpha; passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're clear to begin development on your PWP. Build your layout directly inside the `/public_html` directory. You do not need to use the `/documentation` directory any more.
+
+### Edits &amp; Suggestions
+- Don't forget the `alt` attribute on your `<img>` tags.
+- I would move your Milestone images into the `/documentation` directory, so they are separate from the rest of your PWP.

@@ -109,25 +109,13 @@
 					</div>
 				</section>
 				<!--Portfolio Page-->
-				<section class="bg-info">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-3">
-								<img class="image-responsive image-container" src="http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg" alt="Kitteh">
-							</div>
-							<div class="col-md-9">
-								<p>You know nothing, Jon Snow. The bear and the maiden fair. Bastards are born of passion, aren't they? We don't despise them in Dorne. Forgive my manners. I don't see many ladies these days. Lucky for the ladies. It is rare to meet a Lannister who shares my enthusiasm for dead Lannisters. Unbowed, Unbent, Unbroken. Unbowed, Unbent, Unbroken. Bastards are born of passion, aren't they? We don't despise them in Dorne. The night is dark and full of terrors. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. More pigeon pie, please. More pigeon pie, please. The rains of castamere. It's ten thousand miles between Kings landing and the wall. When you play the game of thrones, you win or you die. Forgive my manners. I don't see many ladies these days. Lucky for the ladies. Forgive my manners. I don't see many ladies these days. Lucky for the ladies. All men must die. Winter is coming. It is rare to meet a Lannister who shares my enthusiasm for dead Lannisters.</p>
-							</div>
-						</div>
-					</div>
-				</section>
 
 				<!-- sfooter content -->
 				<footer class="bg-info text-center">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-4 col-md-offset-4">
-								Footer Sample for Bootstrap
+								Footer Information
 							</div>
 						</div>
 					</div>

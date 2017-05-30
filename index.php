@@ -23,7 +23,7 @@
 		<![endif]-->
 
 		<!-- Custome CSS -->
-		<link rel="stylesheet" href="css/styles.css" type="text/css">
+		<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 
 		<!-- Add FontAwesome -->
 		<script src="https://use.fontawesome.com/1a5ce32ebc.js"></script>
@@ -47,43 +47,68 @@
 		<div class="sfooter-content">
 			<header>
 				<nav class="navbar navbar-default navbar-fixed-top">
-					<div class="container">
+					<div class="container-fluid">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
-							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">BootStrap</a>
+							<a class="navbar-brand" href="#">JGC</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
-						<div class="collapse navbar-collapse" id="main-menu">
-							<ul class="nav navbar-nav navbar-right">
-								<li><a href="http://crooksandliars.com/latest" target="_blank">Crooks and Liars</a></li>
-								<li><a href="https://www.democraticunderground.com/" target="_blank">Democratic Underground</a></li>
-								<li><a href="http://talkingpointsmemo.com/" target="_blank">TPM</a></li>
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav">
+								<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+								<li><a href="#">Portfolio</a></li>
+								<li><a href="#">Experience</a></li>
+								<li><a href="#">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
 				</nav>
 			</header>
-			<main>
 
+			<main>
+<!--				Home Page-->
 				<section>
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
 								<div class="jumbotron text-center">
-									<h1>Bootstrap Challenge</h1>
-									<p>It's ten thousand miles between Kings landing and the wall. A Lannister always pays his debts.</p>
+									<h1>Jeffrey Cooper</h1>
+									<p>Software Developer</p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</section>
+
+				<section>
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-6 col-md-4 text-center">
+								<a href="#" class="thumbnail">
+									<img src="images/fff.jpg&text=Portfolio" alt="Portfolio">
+								</a>
+							</div>
+							<div class="col-xs-6 col-md-4 text-center">
+								<a href="#" class="thumbnail">
+									<img src="images/fff.jpg&text=Experience" alt="Experience">
+								</a>
+							</div>
+							<div class="col-xs-6 col-md-4 text-center">
+								<a href="#" class="thumbnail">
+									<img src="images/fff.jpg&text=Contact" alt="Contact">
+								</a>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!--Portfolio Page-->
 				<section class="bg-info">
 					<div class="container">
 						<div class="row">
@@ -96,56 +121,7 @@
 						</div>
 					</div>
 				</section>
-				<section>
-					<div class="container">
-						<div class="row">
-							<div class="col-md-3 text-center">
-							<span class="fa-stack fa-5x">
-								<i class="fa fa-circle fa-stack-2x"></i>
-								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
-							</span>
-								<div class="panel panel-default text-left">
-									<div class="panel-body">
-										The night is dark and full of terrors. Bastards are born of passion, aren't they? We don't despise them in Dorne. Forgive my manners. I don't see many ladies these days. Lucky for the ladies. The War of the 5 kings.
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 text-center">
-							<span class="fa-stack fa-5x">
-								<i class="fa fa-circle fa-stack-2x"></i>
-								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
-							</span>
-								<div class="panel panel-default text-left">
-									<div class="panel-body">
-										The night is dark and full of terrors. Bastards are born of passion, aren't they? We don't despise them in Dorne. Forgive my manners. I don't see many ladies these days. Lucky for the ladies. The War of the 5 kings.
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 text-center">
-							<span class="fa-stack fa-5x">
-								<i class="fa fa-circle fa-stack-2x"></i>
-								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
-							</span>
-								<div class="panel panel-default text-left">
-									<div class="panel-body">
-										The night is dark and full of terrors. Bastards are born of passion, aren't they? We don't despise them in Dorne. Forgive my manners. I don't see many ladies these days. Lucky for the ladies. The War of the 5 kings.
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 text-center">
-							<span class="fa-stack fa-5x">
-								<i class="fa fa-circle fa-stack-2x"></i>
-								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
-							</span>
-								<div class="panel panel-default text-left">
-									<div class="panel-body">
-										The night is dark and full of terrors. Bastards are born of passion, aren't they? We don't despise them in Dorne. Forgive my manners. I don't see many ladies these days. Lucky for the ladies. The War of the 5 kings.
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
+
 				<!-- sfooter content -->
 				<footer class="bg-info text-center">
 					<div class="container">

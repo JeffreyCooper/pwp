@@ -90,17 +90,17 @@
 				<section>
 					<div class="container">
 						<div class="row">
-							<div class="col-xs-6 col-md-4 text-center">
+							<div class="col-xs-12 col-md-4 text-center">
 								<a href="#" class="thumbnail">
 									<img src="images/fff.jpg&text=Portfolio" alt="Portfolio">
 								</a>
 							</div>
-							<div class="col-xs-6 col-md-4 text-center">
+							<div class="col-xs-12 col-md-4 text-center">
 								<a href="#" class="thumbnail">
 									<img src="images/fff.jpg&text=Experience" alt="Experience">
 								</a>
 							</div>
-							<div class="col-xs-6 col-md-4 text-center">
+							<div class="col-xs-12 col-md-4 text-center">
 								<a href="#" class="thumbnail">
 									<img src="images/fff.jpg&text=Contact" alt="Contact">
 								</a>

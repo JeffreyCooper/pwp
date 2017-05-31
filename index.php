@@ -65,6 +65,7 @@
 								<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
 								<li><a href="#">Portfolio</a></li>
 								<li><a href="#">Experience</a></li>
+								<li><a href="#">Interests</a></li>
 								<li><a href="#">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
@@ -90,26 +91,80 @@
 				<section>
 					<div class="container">
 						<div class="row">
-							<div class="col-xs-12 col-md-4 text-center">
-								<a href="#" class="thumbnail">
-									<img src="images/fff.jpg&text=Portfolio" alt="Portfolio">
+							<div class="col-xs-12 col-md-3 text-center">
+								<a href="http://placehold.it" class="thumbnail">
+									<img src="http://placehold.it/171x120" alt="Portfolio">
 								</a>
 							</div>
-							<div class="col-xs-12 col-md-4 text-center">
-								<a href="#" class="thumbnail">
-									<img src="images/fff.jpg&text=Experience" alt="Experience">
+							<div class="col-xs-12 col-md-3 text-center">
+								<a href="http://placehold.it" class="thumbnail">
+									<img src="http://placehold.it/171x120" alt="Experience">
 								</a>
 							</div>
-							<div class="col-xs-12 col-md-4 text-center">
-								<a href="#" class="thumbnail">
-									<img src="images/fff.jpg&text=Contact" alt="Contact">
+							<div class="col-xs-12 col-md-3 text-center">
+								<a href="http://placehold.it" class="thumbnail">
+									<img src="http://placehold.it/171x120" alt="Interests">
+								</a>
+							</div>
+							<div class="col-xs-12 col-md-3 text-center">
+								<a href="http://placehold.it" class="thumbnail">
+									<img src="http://placehold.it/171x120" alt="Contact">
 								</a>
 							</div>
 						</div>
 					</div>
 				</section>
 				<!--Portfolio Page-->
+				<section>
+					<div class="container">
+						<div class="row">
+							<div text-center>
+								<h2>Portfolio</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div text-center>
+								<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-xs-12 col-md-6">
+								<a href="http://placehold.it" class="thumbnail">
+									<img src="http://placehold.it/171x120" alt="Website A">
+								</a>
+								<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to come.</p>
+							</div>
+							<div class="col-xs-12 col-md-6">
+								<a href="http://placehold.it" class="thumbnail">
+									<img src="http://placehold.it/171x120" alt="Website B">
+								</a>
+								<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to come.</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-xs-12 col-md-6">
+								<a href="http://placehold.it" class="thumbnail">
+									<img src="http://placehold.it/171x120" alt="Website A">
+								</a>
+								<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to come.</p>
+							</div>
+							<div class="col-xs-12 col-md-6">
+								<a href="http://placehold.it" class="thumbnail">
+									<img src="http://placehold.it/171x120" alt="Website B">
+								</a>
+								<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to come.</p>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- Experience Section -->
+				<section>
+					<div class="container">
+						<div class="row">
 
+						</div>
+					</div>
+				</section>
 				<!-- sfooter content -->
 				<footer class="bg-info text-center">
 					<div class="container">

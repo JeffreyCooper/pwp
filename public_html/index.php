@@ -249,8 +249,8 @@
 								<div class="input-group-addon">
 									<i class="fa fa-comment" aria-hidden="true"></i>
 								</div>
-								<textarea class="form-control" rows="5" id="message" name="Composer your message"
-											 placeholder="Message"></textarea>
+								<textarea class="form-control" rows="5" id="message" name="message"
+											 placeholder="Compose your message"></textarea>
 							</div>
 						</div>
 						<!-- Google reCAPTCHA -->

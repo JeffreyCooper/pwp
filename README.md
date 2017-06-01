@@ -32,3 +32,6 @@ Overall I think you've made some great choices here, and I look forward to seein
 ### Edits &amp; Suggestions
 - Don't forget the `alt` attribute on your `<img>` tags.
 - I would move your Milestone images into the `/documentation` directory, so they are separate from the rest of your PWP.
+
+## Milestone 2b Feedback
+Nice work - detailed feedback left via Slack. Your Milestone 2&beta; passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).

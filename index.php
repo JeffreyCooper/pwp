@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 	<!--
 	PWP for JCIT.INFO
 	@author Jeffrey Cooper <jcooper37@cnm.edu>
@@ -23,7 +23,7 @@
 		<![endif]-->
 
 		<!-- Custome CSS -->
-		<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
+		<link rel="stylesheet" href="public_html/css/stylesheet.css" type="text/css">
 
 		<!-- Add FontAwesome -->
 		<script src="https://use.fontawesome.com/1a5ce32ebc.js"></script>
@@ -170,9 +170,25 @@
 				<section>
 					<div class="container">
 						<div class="row">
+							<!-- nav-experience bar -->
+							<!-- Nav pills -->
+							<ul class="nav nav-pills" role="tablist">
+								<li role="presentation" class="active"><a href="#education" aria-controls="education" role="tab" data-toggle="pill">Experience</a></li>
+								<li role="presentation"><a href="#skills" aria-controls="skills" role="tab" data-toggle="pill">Skills</a></li>
+								<li role="presentation"><a href="#experience" aria-controls="experience" role="tab" data-toggle="pill">Experience</a></li>
+								<li role="presentation"><a href="#interests" aria-controls="interests" role="tab" data-toggle="pill">Interests</a></li>
+							</ul>
+								<!-- Tab panes -->
+								<div class="tab-content">
+									<div role="tabpanel" class="tab-pane fade in active" id="education">...</div>
+									<div role="tabpanel" class="tab-pane fade" id="skills">...</div>
+									<div role="tabpanel" class="tab-pane fade" id="experience">...</div>
+									<div role="tabpanel" class="tab-pane fade" id="interests">...</div>
+								</div>
+
+							</div>
 
 						</div>
-					</div>
 				</section>
 				<!-- Contact Form -->
 				<section>

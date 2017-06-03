@@ -190,17 +190,38 @@
 					<div class="container">
 						<div class="row">
 							<!-- nav-experience bar -->
-							<!-- Nav pills -->
-							<ul class="nav nav-pills" role="tablist">
-								<li role="presentation" class="active"><a href="#education" aria-controls="education" role="tab"
-																						data-toggle="pill">Experience</a></li>
-								<li role="presentation"><a href="#skills" aria-controls="skills" role="tab" data-toggle="pill">Skills</a>
-								</li>
-								<li role="presentation"><a href="#experience" aria-controls="experience" role="tab"
-																	data-toggle="pill">Experience</a></li>
-								<li role="presentation"><a href="#interests" aria-controls="interests" role="tab"
-																	data-toggle="pill">Interests</a></li>
-							</ul>
+							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseEducation" aria-expanded="false" aria-controls="collapseEducation">
+								Education
+							</button>
+							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExperience" aria-expanded="false" aria-controls="collapseExperience">
+								Experience
+							</button>
+							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseSkills" aria-expanded="false" aria-controls="collapseSkills">
+								Skills
+							</button>
+							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseInterests" aria-expanded="false" aria-controls="collapseInterests">
+								Interests
+							</button>
+							<div class="collapse" id="collapseEducation">
+								<div class="well">
+									TEXT1
+								</div>
+							</div>
+							<div class="collapse" id="collapseExperience">
+								<div class="well">
+									TEXT2
+								</div>
+							</div>
+							<div class="collapse" id="collapseSkills">
+								<div class="well">
+									TEXT3
+								</div>
+							</div>
+							<div class="collapse" id="collapseInterests">
+								<div class="well">
+									TEXT4
+								</div>
+							</div>
 							<!-- Tab panes -->
 							<div class="tab-content">
 								<div role="tabpanel" class="tab-pane fade in active" id="education">...</div>

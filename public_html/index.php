@@ -78,11 +78,10 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
-								<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-								<li><a href="#">Portfolio</a></li>
-								<li><a href="#">Experience</a></li>
-								<li><a href="#">Interests</a></li>
-								<li><a href="#">Contact</a></li>
+								<li class="active"><a href="#top">Home <span class="sr-only">(current)</span></a></li>
+								<li><a href="#portfolio">Portfolio</a></li>
+								<li><a href="#experience">Experience</a></li>
+								<li><a href="#contact">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -96,6 +95,7 @@
 						<div class="row">
 							<div class="col-md-12">
 								<div class="jumbotron text-center">
+									<a name="top"></a>
 									<h1>Jeffrey Cooper</h1>
 									<p>Software Developer</p>
 								</div>
@@ -133,13 +133,14 @@
 				<!--Portfolio Page-->
 				<section>
 					<div class="container">
-						<div class="row">
-							<div text-center>
+						<div class="row title">
+							<div>
+								<a name="portfolio"></a>
 								<h2>Portfolio</h2>
 							</div>
 						</div>
 						<div class="row">
-							<div text-center>
+							<div>
 								<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You
 									know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the
 									bad, nor a bad act the good. Each should have its own reward. When you play the game of
@@ -187,55 +188,36 @@
 				</section>
 				<!-- Experience Section -->
 				<section>
-					<div class="container">
-						<div class="row">
-							<!-- nav-experience bar -->
-							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseEducation" aria-expanded="false" aria-controls="collapseEducation">
-								Education
-							</button>
-							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExperience" aria-expanded="false" aria-controls="collapseExperience">
-								Experience
-							</button>
-							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseSkills" aria-expanded="false" aria-controls="collapseSkills">
-								Skills
-							</button>
-							<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseInterests" aria-expanded="false" aria-controls="collapseInterests">
-								Interests
-							</button>
-							<div class="collapse" id="collapseEducation">
-								<div class="well">
-									TEXT1
-								</div>
-							</div>
-							<div class="collapse" id="collapseExperience">
-								<div class="well">
-									TEXT2
-								</div>
-							</div>
-							<div class="collapse" id="collapseSkills">
-								<div class="well">
-									TEXT3
-								</div>
-							</div>
-							<div class="collapse" id="collapseInterests">
-								<div class="well">
-									TEXT4
-								</div>
-							</div>
-							<!-- Tab panes -->
-							<div class="tab-content">
-								<div role="tabpanel" class="tab-pane fade in active" id="education">...</div>
-								<div role="tabpanel" class="tab-pane fade" id="skills">...</div>
-								<div role="tabpanel" class="tab-pane fade" id="experience">...</div>
-								<div role="tabpanel" class="tab-pane fade" id="interests">...</div>
-							</div>
+					<a name="experience"></a>
+					<ul class="nav nav-pills nav-justified">
+						<li class="active"><a data-toggle="pill" href="#education">Education</a></li>
+						<li><a data-toggle="pill" href="#experience">Experience</a></li>
+						<li><a data-toggle="pill" href="#skills">Skills</a></li>
+						<li><a data-toggle="pill" href="#interests">Interests</a></li>
+					</ul>
 
+					<div class="tab-content">
+						<div id="education" class="tab-pane fade in active">
+							<h3>Education</h3>
+							<p>Education content.</p>
 						</div>
-
+						<div id="experience" class="tab-pane fade">
+							<h3>Experience</h3>
+							<p>Experience content.</p>
+						</div>
+						<div id="skills" class="tab-pane fade">
+							<h3>Skills</h3>
+							<p>Skills content.</p>
+						</div>
+						<div id="interests" class="tab-pane fade">
+							<h3>Interests</h3>
+							<p>Interests content.</p>
+						</div>
 					</div>
 				</section>
 				<!-- Contact Form -->
 				<section>
+					<a name="contact"></a>
 					<form id="contact-form" class="form-horizontal well" method="POST" action="php/mailer.php">
 						<div class="form-group">
 							<label for="name">Name</label>

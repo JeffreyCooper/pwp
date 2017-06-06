@@ -36,6 +36,7 @@
 
 		<!-- jQuery 3.0 -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+		<script src="animatescroll.js">
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript"
@@ -63,7 +64,7 @@
 		<div class="sfooter-content">
 			<header>
 				<nav class="navbar navbar-default navbar-fixed-top">
-					<div class="container-fluid">
+					<div id="section-1" class="container-fluid">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<a class="navbar-brand">JGC</a>
 						<div class="navbar-header">
@@ -80,10 +81,10 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
-								<li class="active"><a href="#page-top">Home <span class="sr-only">(current)</span></a></li>
-								<li><a href="#portfolio">Portfolio</a></li>
-								<li><a href="#work">Experience</a></li>
-								<li><a href="#contact">Contact</a></li>
+								<li class="active"><a onclick="$('[section-1]').animatescroll();">Home <span class="sr-only">(current)</span></a></li>
+								<li><a onclick="$('[section-2]').animatescroll();">Portfolio</a></li>
+								<li><a onclick="$('[section-3]').animatescroll();">Experience</a></li>
+								<li><a onclick="$('[section-4]').animatescroll();">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -133,9 +134,9 @@
 				<!--Portfolio Page-->
 				<a name="portfolio"></a>
 				<section>
-					<div class="container" id="port-pad">
+					<div class="container" id="port-pad section-2">
 						<div class="row">
-							<div class="title">
+							<div class="title col-sm-6 col-sm-offset-1">
 								<h2>Portfolio</h2>
 							</div>
 						</div>
@@ -144,8 +145,7 @@
 								<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You
 									know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the
 									bad, nor a bad act the good. Each should have its own reward. When you play the game of
-									thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between
-									Kings landing and the wall. Winter is coming.</p>
+									thrones, you win or you die. You know nothing, Jon Snow.</p>
 							</div>
 						</div>
 						<div class="row">
@@ -189,11 +189,7 @@
 				<!-- Experience Section -->
 				<a name="work"></a>
 				<section>
-					<div class="container" id="exp-pad">
-						<div class="title">
-							<h2>Experience</h2>
-						</div>
-						<div class="box">
+					<div class="container" id="exp-pad section-3">
 							<div class="row">
 								<div class="col-xs-12">
 									<ul class="nav nav-pills nav-justified">
@@ -205,37 +201,40 @@
 								</div>
 							</div>
 
-							<div class="row">
-								<div class="col-xs-12">
-									<div class="tab-content">
-										<div id="education" class="tab-pane fade in active">
-											<h3>Education</h3>
-											<p>Education content.</p>
-										</div>
-										<div id="experience" class="tab-pane fade">
-											<h3>Experience</h3>
-											<p>Experience content.</p>
-										</div>
-										<div id="skills" class="tab-pane fade">
-											<h3>Skills</h3>
-											<p>Skills content.</p>
-										</div>
-										<div id="interests" class="tab-pane fade">
-											<h3>Interests</h3>
-											<p>Interests content.</p>
+							<div class="row box">
+									<div class="col-xs-12">
+										<div class="tab-content">
+											<div id="education" class="tab-pane fade in active">
+												<h3>Education</h3>
+												<p>Education content.</p>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
+											</div>
+											<div id="experience" class="tab-pane fade">
+												<h3>Experience</h3>
+												<p>Experience content.</p>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
+											</div>
+											<div id="skills" class="tab-pane fade">
+												<h3>Skills</h3>
+												<p>Skills content.</p>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
+											</div>
+											<div id="interests" class="tab-pane fade">
+												<h3>Interests</h3>
+												<p>Interests content.</p>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
+											</div>
 										</div>
 									</div>
 								</div>
-							</div>
 						</div>
-					</div>
 				</section>
 				<!-- Contact Form -->
 				<a name="contact"></a>
 				<section>
-					<div class="container" id="contact-pad">
+					<div class="container" id="contact-pad section-4">
 						<div class="row">
-							<div class="title">
+							<div class="title col-sm-6 col-sm-offset-3">
 								<h2>Contact Jeffrey Cooper</h2>
 							</div>
 							<div class="col-sm-6 col-sm-offset-3">

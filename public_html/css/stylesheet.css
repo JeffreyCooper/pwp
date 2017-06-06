@@ -17,21 +17,24 @@ body {
 }
 .box {
 	border-style: solid;
-	border-width: 2px;
-	border-color: blue;
-	padding: 5px;
+	border-width: 1px;
+	border-color: black;
+	padding: 10px;
 }
 #home-pad {
 	padding-top: 9rem;
 	padding-bottom: 4rem;
 }
 #port-pad {
-	padding-top: 5rem;
-	padding-bottom: 20rem;
+	padding-top: 3rem;
+	padding-bottom: 10rem;
 }
 #exp-pad {
-	padding-top: 10rem;
+	padding-top: 8rem;
 }
 #contact-pad {
-	padding-top: 20rem;
+	padding-top: 3rem;
+}
+.title {
+	padding-top: 5rem;
 }

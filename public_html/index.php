@@ -111,22 +111,22 @@
 								<div class="row">
 									<div class="col-xs-12 col-md-3 text-center">
 										<a href="http://placehold.it" class="thumbnail">
-											<img src="http://placehold.it/171x120" alt="Portfolio">
+											<img src="http://placehold.it/160x120" alt="Portfolio">
 										</a>
 									</div>
 									<div class="col-xs-12 col-md-3 text-center">
 										<a href="http://placehold.it" class="thumbnail">
-											<img src="http://placehold.it/171x120" alt="Experience">
+											<img src="http://placehold.it/160x120" alt="Experience">
 										</a>
 									</div>
 									<div class="col-xs-12 col-md-3 text-center">
 										<a href="http://placehold.it" class="thumbnail">
-											<img src="http://placehold.it/171x120" alt="Interests">
+											<img src="http://placehold.it/160x120" alt="Interests">
 										</a>
 									</div>
 									<div class="col-xs-12 col-md-3 text-center">
 										<a href="http://placehold.it" class="thumbnail">
-											<img src="http://placehold.it/171x120" alt="Contact">
+											<img src="http://placehold.it/160x120" alt="Contact">
 										</a>
 									</div>
 								</div>

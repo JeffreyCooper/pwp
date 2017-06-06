@@ -62,12 +62,12 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<header>
-				<nav class="navbar navbar-default navbar-fixed-top">
+				<nav class="navbar navbar-default navbar-inverse navbar-fixed-top">
 					<div class="container-fluid">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
 							<a class="navbar-brand">
-								<img alt="Jeffrey Cooper" src="images/JC-logo.gif">
+								<img alt="Jeffrey Cooper" src="images/JC-logo2.gif">
 							</a>
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
 									  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">

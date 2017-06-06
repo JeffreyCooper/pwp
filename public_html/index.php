@@ -134,8 +134,8 @@
 				</section>
 				<!--Portfolio Page-->
 				<a name="portfolio"></a>
-				<section id="port-bg">
-					<div class="container">
+				<section>
+					<div class="container" id="port-pad">
 					<div class="panel panel-primary">
 						<div class="panel-heading">
 
@@ -195,7 +195,7 @@
 				</section>
 				<!-- Experience Section -->
 				<a name="work"></a>
-				<section id="exp-bg">
+				<section id="exp-pad">
 					<div class="container">
 						<div class="panel panel-success">
 							<div class="panel-heading">
@@ -246,8 +246,8 @@
 				</section>
 				<!-- Contact Form -->
 				<a name="contact"></a>
-				<section>
-					<div class="container" id="contact-pad">
+				<section id="contact-pad">
+					<div class="container">
 						<div class="panel panel-danger">
 							<div class="panel-heading">
 								<h2 class="panel-title">Contact Jeffrey Cooper</h2>

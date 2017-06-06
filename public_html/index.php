@@ -58,12 +58,14 @@
 
 		<title>Jeffrey Cooper</title>
 	</head>
+	<a name="page-top"></a>
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<header>
 				<nav class="navbar navbar-default navbar-fixed-top">
 					<div class="container-fluid">
 						<!-- Brand and toggle get grouped for better mobile display -->
+						<a class="navbar-brand">JGC</a>
 						<div class="navbar-header">
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
 									  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -72,15 +74,15 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">JGC</a>
+
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
-								<li class="active"><a href="#top">Home <span class="sr-only">(current)</span></a></li>
+								<li class="active"><a href="#page-top">Home <span class="sr-only">(current)</span></a></li>
 								<li><a href="#portfolio">Portfolio</a></li>
-								<li><a href="#experience">Experience</a></li>
+								<li><a href="#work">Experience</a></li>
 								<li><a href="#contact">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
@@ -90,12 +92,11 @@
 
 			<main>
 				<!--				Home Page-->
-				<section>
+				<section  id="home-pad">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
 								<div class="jumbotron text-center">
-									<a name="top"></a>
 									<h1>Jeffrey Cooper</h1>
 									<p>Software Developer</p>
 								</div>
@@ -103,7 +104,6 @@
 						</div>
 					</div>
 				</section>
-
 				<section>
 					<div class="container">
 						<div class="row">
@@ -131,11 +131,11 @@
 					</div>
 				</section>
 				<!--Portfolio Page-->
+				<a name="portfolio"></a>
 				<section>
-					<div class="container">
-						<div class="row title">
-							<div>
-								<a name="portfolio"></a>
+					<div class="container" id="port-pad">
+						<div class="row">
+							<div class="title">
 								<h2>Portfolio</h2>
 							</div>
 						</div>
@@ -187,86 +187,110 @@
 					</div>
 				</section>
 				<!-- Experience Section -->
+				<a name="work"></a>
 				<section>
-					<a name="experience"></a>
-					<ul class="nav nav-pills nav-justified">
-						<li class="active"><a data-toggle="pill" href="#education">Education</a></li>
-						<li><a data-toggle="pill" href="#experience">Experience</a></li>
-						<li><a data-toggle="pill" href="#skills">Skills</a></li>
-						<li><a data-toggle="pill" href="#interests">Interests</a></li>
-					</ul>
+					<div class="container" id="exp-pad">
+						<div class="title">
+							<h2>Experience</h2>
+						</div>
+						<div class="box">
+							<div class="row">
+								<div class="col-xs-12">
+									<ul class="nav nav-pills nav-justified">
+										<li class="active"><a data-toggle="pill" href="#education">Education</a></li>
+										<li><a data-toggle="pill" href="#experience">Experience</a></li>
+										<li><a data-toggle="pill" href="#skills">Skills</a></li>
+										<li><a data-toggle="pill" href="#interests">Interests</a></li>
+									</ul>
+								</div>
+							</div>
 
-					<div class="tab-content">
-						<div id="education" class="tab-pane fade in active">
-							<h3>Education</h3>
-							<p>Education content.</p>
-						</div>
-						<div id="experience" class="tab-pane fade">
-							<h3>Experience</h3>
-							<p>Experience content.</p>
-						</div>
-						<div id="skills" class="tab-pane fade">
-							<h3>Skills</h3>
-							<p>Skills content.</p>
-						</div>
-						<div id="interests" class="tab-pane fade">
-							<h3>Interests</h3>
-							<p>Interests content.</p>
+							<div class="row">
+								<div class="col-xs-12">
+									<div class="tab-content">
+										<div id="education" class="tab-pane fade in active">
+											<h3>Education</h3>
+											<p>Education content.</p>
+										</div>
+										<div id="experience" class="tab-pane fade">
+											<h3>Experience</h3>
+											<p>Experience content.</p>
+										</div>
+										<div id="skills" class="tab-pane fade">
+											<h3>Skills</h3>
+											<p>Skills content.</p>
+										</div>
+										<div id="interests" class="tab-pane fade">
+											<h3>Interests</h3>
+											<p>Interests content.</p>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</section>
 				<!-- Contact Form -->
+				<a name="contact"></a>
 				<section>
-					<a name="contact"></a>
-					<form id="contact-form" class="form-horizontal well" method="POST" action="php/mailer.php">
-						<div class="form-group">
-							<label for="name">Name</label>
-							<div class="input-group">
-								<div class="input-group-addon">
-									<i class="fa fa-user" aria-hidden="true"></i>
-								</div>
-								<input type="text" class="form-control" id="name" name="name" placeholder="Enter your name">
+					<div class="container" id="contact-pad">
+						<div class="row">
+							<div class="title">
+								<h2>Contact Jeffrey Cooper</h2>
 							</div>
-						</div>
-						<div class="form-group">
-							<label for="email">Email address</label>
-							<div class="input-group">
-								<div class="input-group-addon">
-									<i class="fa fa-envelope" aria-hidden="true"></i>
-								</div>
-								<input type="email" class="form-control" id="email" name="email" placeholder="Enter your email">
-							</div>
-						</div>
-						<div class="form-group">
-							<label for="subject">Subject</label>
-							<div class="input-group">
-								<div class="input-group-addon">
-									<i class="fa fa-pencil" aria-hidden="true"></i>
-								</div>
-								<input type="text" class="form-control" id="subject" name="subject" placeholder="Enter your subject line">
-							</div>
-						</div>
-						<div class="form-group">
-							<label for="message">Message</label>
-							<div class="input-group">
-								<div class="input-group-addon">
-									<i class="fa fa-comment" aria-hidden="true"></i>
-								</div>
-								<textarea class="form-control" rows="5" id="message" name="message"
-											 placeholder="Compose your message"></textarea>
-							</div>
-						</div>
-						<!-- Google reCAPTCHA -->
-						<div class="g-recaptcha" data-sitekey="6LeH0CMUAAAAAKq5tT0ZEpfYX9Xs2LmAMQEReHhg"></div>
+							<div class="col-sm-6 col-sm-offset-3">
+								<form id="contact-form" class="form-horizontal well" method="POST" action="php/mailer.php">
+									<div class="form-group">
+										<label for="name">Name</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-user" aria-hidden="true"></i>
+											</div>
+											<input type="text" class="form-control" id="name" name="name" placeholder="Enter your name">
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="email">Email address</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-envelope" aria-hidden="true"></i>
+											</div>
+											<input type="email" class="form-control" id="email" name="email" placeholder="Enter your email">
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="subject">Subject</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-pencil" aria-hidden="true"></i>
+											</div>
+											<input type="text" class="form-control" id="subject" name="subject" placeholder="Enter your subject line">
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="message">Message</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-comment" aria-hidden="true"></i>
+											</div>
+											<textarea class="form-control" rows="5" id="message" name="message"
+														 placeholder="Compose your message"></textarea>
+										</div>
+									</div>
+									<!-- Google reCAPTCHA -->
+									<div class="g-recaptcha" data-sitekey="6LeH0CMUAAAAAKq5tT0ZEpfYX9Xs2LmAMQEReHhg"></div>
 
-						<!-- Buttons -->
-						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-					</form>
-					<!-- Empty form output area (error messages). -->
-					<div class="row">
-						<div class="=col-md-6">
-							<div id="output-area"></div>
+									<!-- Buttons -->
+									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+									<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+								</form>
+							</div>
+						</div>
+						<!-- Empty form output area (error messages). -->
+						<div class="row">
+							<div class="=col-md-6">
+								<div id="output-area"></div>
+							</div>
 						</div>
 					</div>
 				</section>

@@ -36,7 +36,7 @@
 
 		<!-- jQuery 3.0 -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-		<script src="animatescroll.js">
+		<script src="scroll/animatescroll.js">
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript"

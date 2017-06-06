@@ -36,13 +36,14 @@
 
 		<!-- jQuery 3.0 -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-		<script src="jquery-1.8.3.min.js"></script>
-		<script src="animatescroll.js"></script>
-
-		<!-- jQuery Form, Additional Methods, Validate -->
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.1/jquery.form.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/jquery.validate.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/additional-methods.min.js"></script>
+		<script src="animatescroll.js">
+			<!-- jQuery Form, Additional Methods, Validate -->
+			<script type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.1/jquery.form.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/jquery.validate.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
@@ -188,44 +189,44 @@
 				<a name="work"></a>
 				<section>
 					<div class="container" id="exp-pad section-3">
-							<div class="row">
-								<div class="col-xs-12">
-									<ul class="nav nav-pills nav-justified">
-										<li class="active"><a data-toggle="pill" href="#education">Education</a></li>
-										<li><a data-toggle="pill" href="#experience">Experience</a></li>
-										<li><a data-toggle="pill" href="#skills">Skills</a></li>
-										<li><a data-toggle="pill" href="#interests">Interests</a></li>
-									</ul>
-								</div>
+						<div class="row">
+							<div class="col-xs-12">
+								<ul class="nav nav-pills nav-justified">
+									<li class="active"><a data-toggle="pill" href="#education">Education</a></li>
+									<li><a data-toggle="pill" href="#experience">Experience</a></li>
+									<li><a data-toggle="pill" href="#skills">Skills</a></li>
+									<li><a data-toggle="pill" href="#interests">Interests</a></li>
+								</ul>
 							</div>
+						</div>
 
-							<div class="row box">
-									<div class="col-xs-12">
-										<div class="tab-content">
-											<div id="education" class="tab-pane fade in active">
-												<h3>Education</h3>
-												<p>Education content.</p>
-												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
-											</div>
-											<div id="experience" class="tab-pane fade">
-												<h3>Experience</h3>
-												<p>Experience content.</p>
-												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
-											</div>
-											<div id="skills" class="tab-pane fade">
-												<h3>Skills</h3>
-												<p>Skills content.</p>
-												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
-											</div>
-											<div id="interests" class="tab-pane fade">
-												<h3>Interests</h3>
-												<p>Interests content.</p>
-												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
-											</div>
-										</div>
+						<div class="row box">
+							<div class="col-xs-12">
+								<div class="tab-content">
+									<div id="education" class="tab-pane fade in active">
+										<h3>Education</h3>
+										<p>Education content.</p>
+										<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
+									</div>
+									<div id="experience" class="tab-pane fade">
+										<h3>Experience</h3>
+										<p>Experience content.</p>
+										<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
+									</div>
+									<div id="skills" class="tab-pane fade">
+										<h3>Skills</h3>
+										<p>Skills content.</p>
+										<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
+									</div>
+									<div id="interests" class="tab-pane fade">
+										<h3>Interests</h3>
+										<p>Interests content.</p>
+										<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow.</p>
 									</div>
 								</div>
+							</div>
 						</div>
+					</div>
 				</section>
 				<!-- Contact Form -->
 				<a name="contact"></a>

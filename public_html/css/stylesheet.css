@@ -28,16 +28,29 @@ body {
 /*.exp-bg {*/
 	/*background-color: green;*/
 /*}*/
-.box {
+.card-header {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	padding: 10px;
+	background-color: #C0D7C0;
+}
+.card-block {
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
 	padding: 10px;
 	background-color: #8FBC8F;
 }
+.tab-content {
+	text-align: left;
+}
 #home-pad {
 	padding-top: 8rem;
 	padding-bottom: 10rem;
+}
+#home-card {
+	text-align: center;
 }
 #port-pad {
 	padding-top: 10rem;

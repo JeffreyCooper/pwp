@@ -108,26 +108,27 @@
 								</div>
 							</div>
 							<div class="container">
-								<div class="row">
-									<div class="col-xs-12 col-md-3 text-center">
-										<a href="http://placehold.it" class="thumbnail">
-											<img src="http://placehold.it/160x120" alt="Portfolio">
-										</a>
+								<div class="row" id="home-card">
+									<div class="card card-inverse col-xs-12 col-md-4">
+										<img class="card-img" src="/public_html/images/sheba-160x120.jpg" alt="Portfolio">
+										<div class="card-img-overlay">
+											<h4 class="card-title">Card Title</h4>
+											<p class="card-text">This is text describing the card.</p>
+										</div>
 									</div>
-									<div class="col-xs-12 col-md-3 text-center">
-										<a href="http://placehold.it" class="thumbnail">
-											<img src="http://placehold.it/160x120" alt="Experience">
-										</a>
+									<div class="card card-inverse col-xs-12 col-md-4"">
+										<img class="card-img" src="/public_html/images/sheba-160x120.jpg" alt="Portfolio">
+										<div class="card-img-overlay">
+											<h4 class="card-title">Card Title</h4>
+											<p class="card-text">This is text describing the card.</p>
+										</div>
 									</div>
-									<div class="col-xs-12 col-md-3 text-center">
-										<a href="http://placehold.it" class="thumbnail">
-											<img src="http://placehold.it/160x120" alt="Interests">
-										</a>
-									</div>
-									<div class="col-xs-12 col-md-3 text-center">
-										<a href="http://placehold.it" class="thumbnail">
-											<img src="http://placehold.it/160x120" alt="Contact">
-										</a>
+									<div class="card card-inverse col-xs-12 col-md-4"">
+										<img class="card-img" src="/public_html/images/sheba-160x120.jpg" alt="Portfolio">
+										<div class="card-img-overlay">
+											<h4 class="card-title">Card Title</h4>
+											<p class="card-text">This is text describing the card.</p>
+										</div>
 									</div>
 								</div>
 							</div>
@@ -198,12 +199,12 @@
 				<!-- Experience Section -->
 				<a name="work"></a>
 				<section id="exp-pad">
-					<div class="container exp-bg">
+					<div class="container">
 						<div class="title">
 								<h2>Experience</h2>
 						</div>
 						<!--<div class="card">-->
-						<div class="card text-center">
+						<div class="card text-center card-exp-bg">
 							<div class="card-header">
 								<ul class="nav nav-pills nav-header-pills">
 									<li class="nav-item">
@@ -222,22 +223,22 @@
 							</div>
 							<div class="card-block">
 								<div class="tab-content">
-									<div id="education" class="tab-pane fade in active" role="tab-panel">
+									<div id="education" class="tab-pane fade in active" role="tabpanel">
 													<h3>Education</h3>
 													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
 													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
 									</div>
-									<div id="experience" class="tab-pane fade" role="tab-panel">
+									<div id="experience" class="tab-pane fade" role="tabpanel">
 													<h3>Experience</h3>
 													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
 													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
 									</div>
-									<div id="skills" class="tab-pane fade" role="tab-panel">
+									<div id="skills" class="tab-pane fade" role="tabpanel">
 													<h3>Skills</h3>
 													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
 													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
 									</div>
-									<div id="interests" class="tab-pane fade" role="tab-panel">
+									<div id="interests" class="tab-pane fade" role="tabpanel">
 													<h3>Interests</h3>
 													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
 													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>

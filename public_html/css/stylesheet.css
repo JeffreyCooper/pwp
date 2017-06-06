@@ -11,40 +11,56 @@
 }
 body {
 	padding-top: 9rem;
+	background: url("../images/sheba-garden.jpg") no-repeat center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color:#fff;
+	background-color:#333;
+}
+.jumbotron {
+	background: #A7CFF0;
 }
 .row.title {
 	text-align: center;
 }
+/*.exp-bg {*/
+	/*background-color: green;*/
+/*}*/
 .box {
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
 	padding: 10px;
+	background-color: #8FBC8F;
 }
 #home-pad {
-	padding-top: 9rem;
-	padding-bottom: 4rem;
+	padding-top: 8rem;
+	padding-bottom: 10rem;
 }
 #port-pad {
-	padding-top: 20px;
+	padding-top: 10rem;
 	padding-bottom: 10rem;
 }
 #exp-pad {
-	padding-top: 2rem;
+	padding-top: 10rem;
+	padding-bottom: 10rem;
 }
 #contact-pad {
-	padding-top: 1rem;
+	padding-top: 10rem;
+	padding-bottom: 10rem;
 }
 .title {
 	padding-top: 5rem;
 }
 
-.jumbotron {
-	margin-bottom: 0px;
-	background-image: url(/public_html/images/sheba-garden.jpg);
-	background-position: 0% 25%;
-	background-size: cover;
-	background-repeat: no-repeat;
-	color: white;
-	text-shadow: black 0.3em 0.3em 0.3em;
-}
+/*.jumbotron {*/
+	/*margin-bottom: 0px;*/
+	/*background-image: url(/public_html/images/sheba-garden.jpg);*/
+	/*background-position: 0% 25%;*/
+	/*background-size: cover;*/
+	/*background-repeat: no-repeat;*/
+	/*color: white;*/
+	/*text-shadow: black 0.3em 0.3em 0.3em;*/
+/*}*/

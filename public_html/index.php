@@ -67,7 +67,7 @@
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
 							<a class="navbar-brand">
-								<img alt="Jeffrey Cooper" src="images/JC-logo2.gif">
+								<img alt="Jeffrey Cooper" src="JC-logo3.gif">
 							</a>
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
 									  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">

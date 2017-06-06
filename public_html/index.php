@@ -92,40 +92,42 @@
 
 			<main>
 				<!--				Home Page-->
-				<section  id="home-pad home-bg">
+				<section  id="home-pad">
 					<div class="container">
-						<div class="row">
-							<div class="col-md-12">
-								<div class="jumbotron text-center">
-									<h1>Jeffrey Cooper</h1>
-									<p>Software Developer</p>
+						<div class="panel panel-default">
+							<div class="panel-body">
+								<div class="row">
+									<div class="col-md-12">
+										<div class="jumbotron text-center">
+											<h1 class="panel-title">Jeffrey Cooper</h1>
+											<p class="panel-title">Software Developer</p>
+										</div>
+									</div>
 								</div>
 							</div>
-						</div>
-					</div>
-				</section>
-				<section>
-					<div class="container">
-						<div class="row">
-							<div class="col-xs-12 col-md-3 text-center">
-								<a href="http://placehold.it" class="thumbnail">
-									<img src="http://placehold.it/171x120" alt="Portfolio">
-								</a>
-							</div>
-							<div class="col-xs-12 col-md-3 text-center">
-								<a href="http://placehold.it" class="thumbnail">
-									<img src="http://placehold.it/171x120" alt="Experience">
-								</a>
-							</div>
-							<div class="col-xs-12 col-md-3 text-center">
-								<a href="http://placehold.it" class="thumbnail">
-									<img src="http://placehold.it/171x120" alt="Interests">
-								</a>
-							</div>
-							<div class="col-xs-12 col-md-3 text-center">
-								<a href="http://placehold.it" class="thumbnail">
-									<img src="http://placehold.it/171x120" alt="Contact">
-								</a>
+							<div class="container">
+								<div class="row">
+									<div class="col-xs-12 col-md-3 text-center">
+										<a href="http://placehold.it" class="thumbnail">
+											<img src="http://placehold.it/171x120" alt="Portfolio">
+										</a>
+									</div>
+									<div class="col-xs-12 col-md-3 text-center">
+										<a href="http://placehold.it" class="thumbnail">
+											<img src="http://placehold.it/171x120" alt="Experience">
+										</a>
+									</div>
+									<div class="col-xs-12 col-md-3 text-center">
+										<a href="http://placehold.it" class="thumbnail">
+											<img src="http://placehold.it/171x120" alt="Interests">
+										</a>
+									</div>
+									<div class="col-xs-12 col-md-3 text-center">
+										<a href="http://placehold.it" class="thumbnail">
+											<img src="http://placehold.it/171x120" alt="Contact">
+										</a>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -133,13 +135,15 @@
 				<!--Portfolio Page-->
 				<a name="portfolio"></a>
 				<section id="port-bg">
-					<div class="container" id="port-pad">
-						<div class="row">
-							<div class="title">
-								<h2>Portfolio</h2>
-							</div>
+					<div class="container">
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+
+								<h2 class="panel-title">Portfolio</h2>
+
 						</div>
-						<div class="row">
+						<div class="panel-body">
+							<div class="row">
 							<div>
 								<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You
 									know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the
@@ -147,91 +151,94 @@
 									thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between
 									Kings landing and the wall. Winter is coming.</p>
 							</div>
-						</div>
-						<div class="row">
-							<div class="col-xs-12 col-md-6">
-								<a href="http://placehold.it" class="thumbnail">
-									<img src="http://placehold.it/171x120" alt="Website A">
-								</a>
-								<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
-									of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
-									come.</p>
 							</div>
-							<div class="col-xs-12 col-md-6">
-								<a href="http://placehold.it" class="thumbnail">
-									<img src="http://placehold.it/171x120" alt="Website B">
-								</a>
-								<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
+
+							<div class="row">
+								<div class="col-xs-12 col-md-6">
+									<a href="http://placehold.it" class="thumbnail">
+										<img src="http://placehold.it/171x120" alt="Website A">
+									</a>
+									<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
 									of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
 									come.</p>
+								</div>
+								<div class="col-xs-12 col-md-6">
+									<a href="http://placehold.it" class="thumbnail">
+										<img src="http://placehold.it/171x120" alt="Website B">
+									</a>
+									<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
+										of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
+										come.</p>
+								</div>
 							</div>
-						</div>
-						<div class="row">
-							<div class="col-xs-12 col-md-6">
-								<a href="http://placehold.it" class="thumbnail">
-									<img src="http://placehold.it/171x120" alt="Website A">
-								</a>
-								<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
-									of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
-									come.</p>
-							</div>
-							<div class="col-xs-12 col-md-6">
-								<a href="http://placehold.it" class="thumbnail">
-									<img src="http://placehold.it/171x120" alt="Website B">
-								</a>
-								<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
-									of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
-									come.</p>
+							<div class="row">
+								<div class="col-xs-12 col-md-6">
+									<a href="http://placehold.it" class="thumbnail">
+										<img src="http://placehold.it/171x120" alt="Website A">
+									</a>
+									<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
+										of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
+										come.</p>
+								</div>
+								<div class="col-xs-12 col-md-6">
+									<a href="http://placehold.it" class="thumbnail">
+										<img src="http://placehold.it/171x120" alt="Website B">
+									</a>
+									<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
+										of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
+										come.</p>
+								</div>
 							</div>
 						</div>
 					</div>
+					</div>
 				</section>
 				<!-- Experience Section -->
-
+				<a name="work"></a>
 				<section id="exp-bg">
-					<div class="container" id="exp-pad">
-						<div>
-							<a name="work"></a>
-						</div>
-						<div class="title">
-							<h2>Experience</h2>
-						</div>
-						<div class="box">
-							<div class="row">
-								<div class="col-xs-12">
-									<ul class="nav nav-pills nav-justified">
-										<li class="active"><a data-toggle="pill" href="#education">Education</a></li>
-										<li><a data-toggle="pill" href="#experience">Experience</a></li>
-										<li><a data-toggle="pill" href="#skills">Skills</a></li>
-										<li><a data-toggle="pill" href="#interests">Interests</a></li>
-									</ul>
-								</div>
+					<div class="container">
+						<div class="panel panel-success">
+							<div class="panel-heading">
+								<h2 class="panel-title">Experience</h2>
 							</div>
-
-							<div class="row">
-								<div class="col-xs-12">
-									<div class="tab-content">
-										<div id="education" class="tab-pane fade in active">
-											<h3>Education</h3>
-											<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-											<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-										</div>
-										<div id="experience" class="tab-pane fade">
-											<h3>Experience</h3>
-											<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-											<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-										</div>
-										<div id="skills" class="tab-pane fade">
-											<h3>Skills</h3>
-											<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-											<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-										</div>
-										<div id="interests" class="tab-pane fade">
-											<h3>Interests</h3>
-											<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-											<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+							<div class="panel-body">
+								<div class="box">
+									<div class="row">
+										<div class="col-xs-12">
+											<ul class="nav nav-pills nav-justified">
+												<li class="active"><a data-toggle="pill" href="#education">Education</a></li>
+												<li><a data-toggle="pill" href="#experience">Experience</a></li>
+												<li><a data-toggle="pill" href="#skills">Skills</a></li>
+												<li><a data-toggle="pill" href="#interests">Interests</a></li>
+											</ul>
 										</div>
 									</div>
+								<div class="row">
+									<div class="col-xs-12">
+										<div class="tab-content">
+											<div id="education" class="tab-pane fade in active">
+												<h3>Education</h3>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+											</div>
+											<div id="experience" class="tab-pane fade">
+												<h3>Experience</h3>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+											</div>
+											<div id="skills" class="tab-pane fade">
+												<h3>Skills</h3>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+											</div>
+											<div id="interests" class="tab-pane fade">
+												<h3>Interests</h3>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+												<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+											</div>
+										</div>
+									</div>
+								</div>
 								</div>
 							</div>
 						</div>
@@ -239,64 +246,68 @@
 				</section>
 				<!-- Contact Form -->
 				<a name="contact"></a>
-				<section id="contact-bg">
+				<section>
 					<div class="container" id="contact-pad">
-						<div class="row">
-							<div class="title col-sm-offset-3">
-								<h2>Contact Jeffrey Cooper</h2>
+						<div class="panel panel-danger">
+							<div class="panel-heading">
+								<h2 class="panel-title">Contact Jeffrey Cooper</h2>
 							</div>
-							<div class="col-sm-6 col-sm-offset-3">
-								<form id="contact-form" class="form-horizontal well" method="POST" action="php/mailer.php">
-									<div class="form-group">
-										<label for="name">Name</label>
-										<div class="input-group">
-											<div class="input-group-addon">
-												<i class="fa fa-user" aria-hidden="true"></i>
+							<div class="panel-body">
+								<div class="row panel-body">
+									<div class="col-sm-6 col-sm-offset-3">
+										<form id="contact-form" class="form-horizontal well" method="POST" action="php/mailer.php">
+											<div class="form-group">
+												<label for="name">Name</label>
+												<div class="input-group">
+													<div class="input-group-addon">
+														<i class="fa fa-user" aria-hidden="true"></i>
+													</div>
+													<input type="text" class="form-control" id="name" name="name" placeholder="Enter your name">
+												</div>
 											</div>
-											<input type="text" class="form-control" id="name" name="name" placeholder="Enter your name">
-										</div>
-									</div>
-									<div class="form-group">
-										<label for="email">Email address</label>
-										<div class="input-group">
-											<div class="input-group-addon">
-												<i class="fa fa-envelope" aria-hidden="true"></i>
+											<div class="form-group">
+												<label for="email">Email address</label>
+												<div class="input-group">
+													<div class="input-group-addon">
+														<i class="fa fa-envelope" aria-hidden="true"></i>
+													</div>
+													<input type="email" class="form-control" id="email" name="email" placeholder="Enter your email">
+												</div>
 											</div>
-											<input type="email" class="form-control" id="email" name="email" placeholder="Enter your email">
-										</div>
-									</div>
-									<div class="form-group">
-										<label for="subject">Subject</label>
-										<div class="input-group">
-											<div class="input-group-addon">
-												<i class="fa fa-pencil" aria-hidden="true"></i>
+											<div class="form-group">
+												<label for="subject">Subject</label>
+												<div class="input-group">
+													<div class="input-group-addon">
+														<i class="fa fa-pencil" aria-hidden="true"></i>
+													</div>
+													<input type="text" class="form-control" id="subject" name="subject" placeholder="Enter your subject line">
+												</div>
 											</div>
-											<input type="text" class="form-control" id="subject" name="subject" placeholder="Enter your subject line">
-										</div>
-									</div>
-									<div class="form-group">
-										<label for="message">Message</label>
-										<div class="input-group">
-											<div class="input-group-addon">
-												<i class="fa fa-comment" aria-hidden="true"></i>
+											<div class="form-group">
+												<label for="message">Message</label>
+												<div class="input-group">
+													<div class="input-group-addon">
+														<i class="fa fa-comment" aria-hidden="true"></i>
+													</div>
+													<textarea class="form-control" rows="5" id="message" name="message"
+																 placeholder="Compose your message"></textarea>
+												</div>
 											</div>
-											<textarea class="form-control" rows="5" id="message" name="message"
-														 placeholder="Compose your message"></textarea>
-										</div>
-									</div>
-									<!-- Google reCAPTCHA -->
-									<div class="g-recaptcha" data-sitekey="6LeH0CMUAAAAAKq5tT0ZEpfYX9Xs2LmAMQEReHhg"></div>
+											<!-- Google reCAPTCHA -->
+											<div class="g-recaptcha" data-sitekey="6LeH0CMUAAAAAKq5tT0ZEpfYX9Xs2LmAMQEReHhg"></div>
 
-									<!-- Buttons -->
-									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-									<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-								</form>
-							</div>
-						</div>
-						<!-- Empty form output area (error messages). -->
-						<div class="row">
-							<div class="=col-md-6">
-								<div id="output-area"></div>
+											<!-- Buttons -->
+											<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+											<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+										</form>
+									</div>
+								</div>
+							<!-- Empty form output area (error messages). -->
+								<div class="row">
+									<div class="=col-md-6">
+										<div id="output-area"></div>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>

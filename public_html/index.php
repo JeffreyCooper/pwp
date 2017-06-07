@@ -110,24 +110,24 @@
 							<div class="container">
 								<div class="row" id="home-card">
 									<div class="card card-inverse col-xs-12 col-md-4">
-										<img class="card-img" src="images/sheba-160x120.jpg" alt="Portfolio">
+										<img class="card-img" src="images/screen-160x120.jpg" alt="Portfolio">
 										<div class="card-img-overlay">
-											<h4 class="card-title">Card Title</h4>
-											<p class="card-text">This is text describing the card.</p>
+											<h4 class="card-title">Portfolio</h4>
+											<p class="card-text">Building websites since 1999.</p>
 										</div>
 									</div>
 									<div class="card card-inverse col-xs-12 col-md-4"">
-										<img class="card-img" src="images/sheba-160x120.jpg" alt="Portfolio">
+										<img class="card-img" src="images/code-160x120.jpg" alt="Experience">
 										<div class="card-img-overlay">
-											<h4 class="card-title">Card Title</h4>
-											<p class="card-text">This is text describing the card.</p>
+											<h4 class="card-title">Experience</h4>
+											<p class="card-text">Education | Experience | Skills | Interests</p>
 										</div>
 									</div>
 									<div class="card card-inverse col-xs-12 col-md-4"">
-										<img class="card-img" src="images/sheba-160x120.jpg" alt="Portfolio">
+										<img class="card-img" src="images/sheba-jeff-160x120.jpg" alt="Contact">
 										<div class="card-img-overlay">
-											<h4 class="card-title">Card Title</h4>
-											<p class="card-text">This is text describing the card.</p>
+											<h4 class="card-title">Contact</h4>
+											<p class="card-text">Questions? Contact Jeffrey.</p>
 										</div>
 									</div>
 								</div>

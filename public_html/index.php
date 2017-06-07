@@ -175,7 +175,7 @@
 <!--									PacRim Box-->
 									<div class="col-xs-12 col-md-6">
 										<div class="box1">
-											<img src="images/pacrim.gif" alt="Pacific Rim Children/'s Chorus Festival">
+											<img src="images/pacrim_logo.gif" alt="Pacific Rim Children/'s Chorus Festival">
 											<p>The Pacific Rim Children's Chorus Festival was launched in 1999 as a new type of
 												music festival that taught languages, cultures, inter-disciplinary arts and promoted
 												global friendships through music. The company was founded by Jeffrey Cooper and
@@ -188,11 +188,8 @@
 <!--									HYOC Box-->
 									<div class="col-xs-12 col-md-6">
 										<div class="box1">
-											<img src="images/45hyoc.png" alt="Hawaii Youth Opera Chorus">
-											<p>The Hawaii Youth Opera Chorus, founded in 1962, is the premier choral performance
-												group for youth in Hawaii. Jeffrey Cooper built their first website in 2001 and
-												rebuilt the site twice during his ten years working with this prestigious
-												ensemble.</p>
+											<img src="images/SWMA-logo.jpg" alt="Soutwest Miniature Art">
+											<p>Southwest Miniature Art is a New Mexico based company that features renowned artist Kenneth Tyger. The company was founded by his famous uncle, L.M. Shinn over 40 years ago. The company seeks to put fine art in the hands of everyone. The miniaturized artwork of Mr. Tyger is featured in museums and gift shops throughout the United States and abroad. He is praised for capturing iconic scenes of Southwestern culture.</p>
 										</div>
 									</div>
 								</div>
@@ -200,7 +197,7 @@
 <!--									Summer Fun Box-->
 									<div class="col-xs-12 col-md-6">
 										<div class="box1">
-											<img src="images/summerfun.png" alt="Summer Fun Camp">
+											<img src="images/summerfun-jpg.gif" alt="Summer Fun Camp">
 											<p>A summer arts camp for kids, Summer Fun in Seattle, WA, helped launch the company in
 												1995. The website went through two iterations during his tenure. In addition to
 												being the webmaster, he was also the Managing Director and Composer, having written
@@ -210,7 +207,7 @@
 <!--									Kodaly Box-->
 									<div class="col-xs-12 col-md-6">
 										<div class="box1">
-											<img src="images/newLogoC.gif" alt="Northwest Kodaly Educators">
+											<img src="images/kodaly-logo.gif" alt="Northwest Kodaly Educators">
 											<p>The Northwest Kodaly Educators Association asked Jeffrey Cooper to build their first
 												website in 2003. He served as their Webmaster and Technology Consultant for 9
 												years.</p>
@@ -221,7 +218,7 @@
 <!--									CCR Box-->
 									<div class="col-xs-12 col-md-6">
 										<div class="box1">
-											<img src="images/ccr.jpg" alt="Choral Conductors Retreat">
+											<img src="images/ccr-jpg.jpg" alt="Choral Conductors Retreat">
 											<p>Dr. Rodney Eichenberger, a world-renowned choral music conductor, asked Jeffrey
 												Cooper to build a web presence to promote his workshops and videos in 2002. A few
 												years later, he purchased the company and launched their bi-coastal workshops in
@@ -232,10 +229,11 @@
 <!--									GTS Box-->
 									<div class="col-xs-12 col-md-6">
 										<div class="box1">
-											<img src="images/gts.jpg" alt="Group Travel Services Hawaii">
-											<p>Group Travel Services Hawaii is a company founded by Jeffrey Cooper in 2009. He
-												served all of the technical needs and built their web presence. The company has
-												grown to see a market capitalization of over 500K per year.</p>
+											<img src="images/45hyoc.png" alt="Hawaii Youth Opera Chorus">
+											<p>The Hawaii Youth Opera Chorus, founded in 1962, is the premier choral performance
+												group for youth in Hawaii. Jeffrey Cooper built their first website in 2001 and
+												rebuilt the site twice during his ten years working with this prestigious
+												ensemble.</p>
 										</div>
 									</div>
 								</div>

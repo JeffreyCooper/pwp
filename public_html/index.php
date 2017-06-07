@@ -30,7 +30,7 @@
 		<!-- Add FontAwesome -->
 		<script src="https://use.fontawesome.com/1a5ce32ebc.js"></script>
 
-		<!--		TODO: Add family for Google Fonts-->
+		<!--		-->
 		<!--		Add Google Fonts-->
 		<link href="https://fonts.googleapis.com/css?family=Cabin|Josefin+Sans|Josefin+Slab|Titillium+Web"
 				rel="stylesheet">
@@ -51,6 +51,7 @@
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
+
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"

@@ -1,7 +1,0 @@
-#Update the info below, then "un-comment" when ready to deploy to live server.
-
-#RewriteEngine on
-#RewriteCond %{HTTP_HOST} ^jcit.info$ [NC,OR]
-#RewriteCond %{HTTP_HOST} ^www.jcit.info$
-#RewriteCond %{REQUEST_URI} !public_html/
-#RewriteRule (.*) /public_html/$1 [L]

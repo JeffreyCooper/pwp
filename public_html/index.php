@@ -102,15 +102,16 @@
 									<div class="col-md-12">
 										<div class="jumbotron text-center">
 											<h1 class="panel-title">Jeffrey Cooper</h1>
-											<p class="panel-title">Software Developer</p>
+											<h2 class="panel-title">Software Developer</h2>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="container">
+							<div class="panel panel-default">
+								<div class="panel-body">
 								<div class="row" id="home-card">
 									<div class="col-xs-12 col-md-4">
-										<div class="card" style="width: 16rem">
+										<div class="card text-left" style="width: 16rem">
 											<img class="card-img-top" src="images/screen-160x120.jpg" alt="Portfolio">
 											<div class="card-block" id="card-port">
 												<h4 class="card-title">Portfolio</h4>
@@ -120,17 +121,17 @@
 										</div>
 									</div>
 									<div class="col-xs-12 col-md-4">
-										<div class="card" style="width: 16rem">
+										<div class="card text-left" style="width: 16rem">
 											<img class="card-img-top" src="images/code-160x120.jpg" alt="Experience">
 											<div class="card-block" id="card-exp">
 												<h4 class="card-title">Experience</h4>
 												<p class="card-text">Education | Skills | Interests</p>
-												<a href="#experience" class="btn btn-success">Experience</a>
+												<a href="#work" class="btn btn-success">Experience</a>
 											</div>
 										</div>
 									</div>
 									<div class="col-xs-12 col-md-4">
-										<div class="card" style="width: 16rem">
+										<div class="card text-left" style="width: 16rem">
 											<img class="card-img-top" src="images/sheba-jeff-160x120.jpg" alt="Contact">
 											<div class="card-block" id="card-contact">
 												<h4 class="card-title">Contact</h4>
@@ -139,6 +140,7 @@
 											</div>
 										</div>
 									</div>
+								</div>
 								</div>
 							</div>
 						</div>
@@ -156,28 +158,19 @@
 						</div>
 						<div class="panel-body">
 							<div class="row">
-							<div>
-								<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You
-									know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the
-									bad, nor a bad act the good. Each should have its own reward. When you play the game of
-									thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between
-									Kings landing and the wall. Winter is coming.</p>
+								<div class="col-xs-12">
+										<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+								</div>
 							</div>
-							</div>
-
 							<div class="row">
 								<div class="col-xs-12 col-md-6">
-									<a href="http://placehold.it" class="thumbnail">
-										<img src="http://placehold.it/171x120" alt="Website A">
-									</a>
+									<img src="images/pacrim.gif" alt="Pacific Rim Children/'s Chorus Festival">
 									<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
 									of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
 									come.</p>
 								</div>
 								<div class="col-xs-12 col-md-6">
-									<a href="http://placehold.it" class="thumbnail">
-										<img src="http://placehold.it/171x120" alt="Website B">
-									</a>
+										<img src="images/45hyoc.png" alt="Hawaii Youth Opera Chorus">
 									<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
 										of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
 										come.</p>
@@ -185,17 +178,13 @@
 							</div>
 							<div class="row">
 								<div class="col-xs-12 col-md-6">
-									<a href="http://placehold.it" class="thumbnail">
-										<img src="http://placehold.it/171x120" alt="Website A">
-									</a>
+										<img src="images/summerfun.png" alt="Summer Fun Camp">
 									<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
 										of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
 										come.</p>
 								</div>
 								<div class="col-xs-12 col-md-6">
-									<a href="http://placehold.it" class="thumbnail">
-										<img src="http://placehold.it/171x120" alt="Website B">
-									</a>
+										<img src="images/newLogoC.gif" alt="Northwest Kodaly Educators">
 									<p>A Lannister always pays his debts. Winter is coming. I am the shield that guards the realms
 										of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to
 										come.</p>

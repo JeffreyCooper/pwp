@@ -35,14 +35,19 @@ body {
 	padding: 10px;
 	background-color: #DFEBDF;
 }
+.panel {
+	padding-bottom: 7rem;
+}
 #card-big-exp {
+	color: #000;
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
-	padding: 10px;
+	padding: 20px;
 	background-color: #8FBC8F;
 }
 #card-port {
+	color: #000;
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
@@ -50,6 +55,7 @@ body {
 	background-color: #A7CFF0;
 }
 #card-exp {
+	color: #000;
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
@@ -57,6 +63,7 @@ body {
 	background-color: #DFEBDF;
 }
 #card-contact {
+	color: #000;
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
@@ -66,14 +73,19 @@ body {
 .tab-content {
 	text-align: left;
 }
+
+#home-bg {
+	background-color: #EEEDA9;
+}
 #home-pad {
 	padding-top: 8rem;
-	padding-bottom: 10rem;
+	/*padding-bottom: 10rem;*/
 }
 #home-card {
 	text-align: center;
 }
 #port-pad {
+	color: black;
 	padding-top: 10rem;
 	padding-bottom: 10rem;
 }

@@ -234,24 +234,44 @@
 							<div class="card-block" id="card-big-exp">
 								<div class="tab-content">
 									<div id="education" class="tab-pane fade in active" role="tabpanel">
-													<h3>Education</h3>
-													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+										<h3>Education</h3>
+										<h4>CNM STEMulus Center - 2017</h4>
+										<p>Certification - Full Stack Web Developer</p>
+										<h4>University of Washington - 1993-2003</h4>
+										<p>Doctor of Musical Arts in Choral Conducting - Boeing Scholar 1998-99</p>
+										<h4>University of Washington - 1993-99</h4>
+										<p>Master of Arts in Choral Conducting</p>
+										<h4>Pepperdine University - 1985–89</h4>
+										<p>Bachelor of Arts - BA in Music, Vocal Performance, Music Education with a Minor in Theater - Magna cum laude</p>
 									</div>
 									<div id="experience" class="tab-pane fade" role="tabpanel">
 													<h3>Experience</h3>
-													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+													<p>Whether as an entrepreneur, artist, programmer or consultant, Jeffrey Cooper has always sought new and challenging experiences. After graduating from college, he traveled throughout Europe and lived in Brussels, Belgium and Moscow, Russia. Upon returning to the US, he started his first company providing travel services overseas. While pursuing a career as a musician, he taught himself programming and soon had a secondary career building websites at the birth of the World Wide Web.</p>
+										<p>In addition to starting several more successful companies, he became a professor and was an adjudicator for music festivals across the country. He managed several employees in each of his start-ups and worked as an Operations Manager for several other organizations.</p>
+										<p>In all, he has built over 50 websites.</p>
 									</div>
 									<div id="skills" class="tab-pane fade" role="tabpanel">
 													<h3>Skills</h3>
-													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+													<ul>
+														<li>Web Development - Web Project Management</li>
+														<li>PHP, mySQL, JavaScript, jQuery, Angular, RESTful Web Services, Secure Coding, UX-UI</li>
+														<li>IT Services, Web Applications, Website Maintenance, Unit Testing, API Testing</li>
+														<li>Professor, Teacher, Educator, Curriculum Development, Research, Music History, Music Theory</li>
+														<li>Choral Conducting, Orchestral Conducting, Performing Arts, Theater, Music, Production, Musical Theater, Workshops</li>
+														<li>Management, Operations, IT, Process Management, Personnel Management</li>
+														<li>Marketing, Graphic Design, Videography, Photography, Copy Editing, Writing</li>
+														<li>Board of Directors, Non-Profit Organization, Philanthropy</li>
+													</ul>
 									</div>
 									<div id="interests" class="tab-pane fade" role="tabpanel">
 													<h3>Interests</h3>
-													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
-													<p>It's ten thousand miles between Kings landing and the wall. The bear and the maiden fair. You know nothing, Jon Snow. A Lannister always pays his debts. A good act does not wash out the bad, nor a bad act the good. Each should have its own reward. When you play the game of thrones, you win or you die. You know nothing, Jon Snow. It's ten thousand miles between Kings landing and the wall. Winter is coming.</p>
+													<ul>
+														<li>Computers and Technology</li>
+														<li>Cinema, Theater, Recording and Podcasting</li>
+														<li>Reading, language, history and politics</li>
+														<li>Backpacking, camping, driving and riding trains</li>
+														<li>Travel and cultures</li>
+													</ul>
 
 									</div>
 								</div>

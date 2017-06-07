@@ -7,9 +7,11 @@
 /*font-family: 'Josefin Slab', serif;*/
 
 .css-selector {
-	font-family: 'Font Name', serif;
+	font-family: 'Cabin', sans-serif;
 }
 body {
+	font-family: 'Cabin', sans-serif;
+	font-size: 16px;
 	padding-top: 9rem;
 	background: url("../images/mesa01.JPG") no-repeat center fixed;
 	-webkit-background-size: cover;

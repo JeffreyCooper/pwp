@@ -109,28 +109,34 @@
 							</div>
 							<div class="container">
 								<div class="row" id="home-card">
-									<div class="card col-xs-12 col-md-4">
-										<img class="card-img-top" src="images/screen-160x120.jpg" alt="Portfolio">
-										<div class="card-block">
-											<h4 class="card-title">Portfolio</h4>
-											<p class="card-text">Building websites since 1999.</p>
-											<a href="#portfolio" class="btn btn-primary">Portfolio</a>
+									<div class="col-xs-12 col-md-4">
+										<div class="card" style="width: 16rem">
+											<img class="card-img-top" src="images/screen-160x120.jpg" alt="Portfolio">
+											<div class="card-block" id="card-port">
+												<h4 class="card-title">Portfolio</h4>
+												<p class="card-text">Building websites since 1999.</p>
+												<a href="#portfolio" class="btn btn-primary">Portfolio</a>
+											</div>
 										</div>
 									</div>
-									<div class="card col-xs-12 col-md-4">
-										<img class="card-img-top" src="images/code-160x120.jpg" alt="Experience">
-										<div class="card-block">
-											<h4 class="card-title">Experience</h4>
-											<p class="card-text">Education | Experience | Skills | Interests</p>
-											<a href="#experience" class="btn btn-success">Experience</a>
+									<div class="col-xs-12 col-md-4">
+										<div class="card" style="width: 16rem">
+											<img class="card-img-top" src="images/code-160x120.jpg" alt="Experience">
+											<div class="card-block" id="card-exp">
+												<h4 class="card-title">Experience</h4>
+												<p class="card-text">Education | Skills | Interests</p>
+												<a href="#experience" class="btn btn-success">Experience</a>
+											</div>
 										</div>
 									</div>
-									<div class="card col-xs-12 col-md-4"">
-										<img class="card-img-top" src="images/sheba-jeff-160x120.jpg" alt="Contact">
-										<div class="card-block">
-											<h4 class="card-title">Contact</h4>
-											<p class="card-text">Questions? Contact Jeffrey.</p>
-											<a href="#contact" class="btn btn-danger">Contact</a>
+									<div class="col-xs-12 col-md-4">
+										<div class="card" style="width: 16rem">
+											<img class="card-img-top" src="images/sheba-jeff-160x120.jpg" alt="Contact">
+											<div class="card-block" id="card-contact">
+												<h4 class="card-title">Contact</h4>
+												<p class="card-text">Questions? Contact Jeffrey.</p>
+												<a href="#contact" class="btn btn-danger">Contact</a>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -224,7 +230,7 @@
 									</li>
 								</ul>
 							</div>
-							<div class="card-block">
+							<div class="card-block" id="card-big-exp">
 								<div class="tab-content">
 									<div id="education" class="tab-pane fade in active" role="tabpanel">
 													<h3>Education</h3>

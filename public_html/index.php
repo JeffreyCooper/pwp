@@ -110,21 +110,21 @@
 							<div class="container">
 								<div class="row" id="home-card">
 									<div class="card card-inverse col-xs-12 col-md-4">
-										<img class="card-img" src="/public_html/images/sheba-160x120.jpg" alt="Portfolio">
+										<img class="card-img" src="images/sheba-160x120.jpg" alt="Portfolio">
 										<div class="card-img-overlay">
 											<h4 class="card-title">Card Title</h4>
 											<p class="card-text">This is text describing the card.</p>
 										</div>
 									</div>
 									<div class="card card-inverse col-xs-12 col-md-4"">
-										<img class="card-img" src="/public_html/images/sheba-160x120.jpg" alt="Portfolio">
+										<img class="card-img" src="images/sheba-160x120.jpg" alt="Portfolio">
 										<div class="card-img-overlay">
 											<h4 class="card-title">Card Title</h4>
 											<p class="card-text">This is text describing the card.</p>
 										</div>
 									</div>
 									<div class="card card-inverse col-xs-12 col-md-4"">
-										<img class="card-img" src="/public_html/images/sheba-160x120.jpg" alt="Portfolio">
+										<img class="card-img" src="images/sheba-160x120.jpg" alt="Portfolio">
 										<div class="card-img-overlay">
 											<h4 class="card-title">Card Title</h4>
 											<p class="card-text">This is text describing the card.</p>

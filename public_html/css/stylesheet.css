@@ -5,6 +5,9 @@
 /*font-family: 'Cabin', sans-serif;*/
 /*font-family: 'Josefin Sans', sans-serif;*/
 /*font-family: 'Josefin Slab', serif;*/
+/*font-family: 'Great Vibes', cursive;*/
+/*font-family: 'Rock Salt', cursive;*/
+/*font-family: 'Merienda', cursive;*/
 
 .css-selector {
 	font-family: 'Cabin', sans-serif;
@@ -23,6 +26,14 @@ body {
 }
 .jumbotron {
 	background: #3073AD;
+}
+h1{
+	text-shadow: 3px 3px #666666;
+	font-family: 'Great Vibes', cursive;
+}
+h2 {
+	font-family: 'Rock Salt', cursive;
+	text-shadow: 2px 2px #666666;
 }
 .row.title {
 	text-align: center;
@@ -114,7 +125,7 @@ body {
 }
 .text-left {
 	padding-left: 80px;
-}
+ }
 /*.card {*/
 	/*padding: 10px;*/
 /*}*/

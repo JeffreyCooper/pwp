@@ -32,7 +32,7 @@
 
 		<!--		-->
 		<!--		Add Google Fonts-->
-		<link href="https://fonts.googleapis.com/css?family=Cabin|Josefin+Sans|Josefin+Slab|Titillium+Web"
+		<link href="https://fonts.googleapis.com/css?family=Cabin|Josefin+Sans|Josefin+Slab|Titillium+Web|Great+Vibes|Rock+S|Merienda"
 				rel="stylesheet">
 
 		<!-- jQuery 3.0 -->

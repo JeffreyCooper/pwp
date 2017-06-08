@@ -55,6 +55,7 @@ body {
 	border-color: black;
 	padding: 10px;
 	background-color: #A7CFF0;
+	width: 160px;
 }
 #card-exp {
 	color: #000;
@@ -63,6 +64,7 @@ body {
 	border-color: black;
 	padding: 10px;
 	background-color: #DFEBDF;
+	width: 160px;
 }
 #card-contact {
 	color: #000;
@@ -71,6 +73,7 @@ body {
 	border-color: black;
 	padding: 10px;
 	background-color: #EFD5D5;
+	width: 160px;
 }
 .tab-content {
 	text-align: left;
@@ -109,6 +112,12 @@ body {
 .title {
 	padding-top: 5rem;
 }
+.text-left {
+	padding-left: 80px;
+}
+/*.card {*/
+	/*padding: 10px;*/
+/*}*/
 
 /*.jumbotron {*/
 	/*margin-bottom: 0px;*/

@@ -115,7 +115,7 @@
 							<div class="panel panel-default">
 								<div class="panel-body">
 									<div class="row" id="home-card">
-										<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="col-xs-12 col-sm-4 col-md-4">
 <!--											Bootstrap Card attribute for breadcrumb links-->
 											<div class="card text-left" style="width: 16rem">
 												<img class="card-img-top" src="images/screen-160x120.jpg" alt="Portfolio">
@@ -126,7 +126,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="col-xs-12 col-sm-4 col-md-4">
 											<div class="card text-left" style="width: 16rem">
 												<img class="card-img-top" src="images/code-160x120.jpg" alt="Experience">
 												<div class="card-block" id="card-exp">
@@ -136,7 +136,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="col-xs-12 col-sm-6 col-md-4">
+										<div class="col-xs-12 col-sm-4 col-md-4">
 											<div class="card text-left" style="width: 16rem">
 												<img class="card-img-top" src="images/sheba-jeff-160x120.jpg" alt="Contact">
 												<div class="card-block" id="card-contact">
@@ -185,7 +185,7 @@
 												students.</p>
 										</div>
 									</div>
-<!--									HYOC Box-->
+<!--									SWMA Box-->
 									<div class="col-xs-12 col-md-6">
 										<div class="box1">
 											<img src="images/SWMA-logo.jpg" alt="Soutwest Miniature Art">
@@ -226,7 +226,7 @@
 												retreat that it is today.</p>
 										</div>
 									</div>
-<!--									GTS Box-->
+<!--									HYOC Box-->
 									<div class="col-xs-12 col-md-6">
 										<div class="box1">
 											<img src="images/45hyoc.png" alt="Hawaii Youth Opera Chorus">

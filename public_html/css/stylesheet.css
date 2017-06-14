@@ -28,7 +28,8 @@ body {
 	background: #3073AD;
 }
 .bg-btm {
-	background: #3073AD;
+	background-color: #3073AD;
+	font-size: 16px;
 }
 h1{
 	text-shadow: 3px 3px #666666;

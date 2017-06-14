@@ -128,7 +128,7 @@
 										</div>
 										<div class="col-xs-12 col-sm-4 col-md-4">
 											<div class="card text-left" style="width: 16rem">
-												<img class="card-img-top" src="images/code-160x120.jpg" alt="Experience">
+												<img class="card-img-top" src="images/tam5-160x120.jpg" alt="Experience">
 												<div class="card-block" id="card-exp">
 													<h4 class="card-title">Experience</h4>
 													<p class="card-text">Education | Skills | Interests</p>
@@ -138,7 +138,7 @@
 										</div>
 										<div class="col-xs-12 col-sm-4 col-md-4">
 											<div class="card text-left" style="width: 16rem">
-												<img class="card-img-top" src="images/sheba-jeff-160x120.jpg" alt="Contact">
+												<img class="card-img-top" src="images/JC-portrait-sm.jpg" alt="Contact">
 												<div class="card-block" id="card-contact">
 													<h4 class="card-title">Contact</h4>
 													<p class="card-text">Questions? Contact Jeffrey.</p>

@@ -35,3 +35,17 @@ Overall I think you've made some great choices here, and I look forward to seein
 
 ## Milestone 2b Feedback
 Nice work - detailed feedback left via Slack. Your Milestone 2&beta; passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+## Milestone 3 Feedback
+Excellent job getting everything to work seamlessly together! Your page flows well logically and visually, and the content you've provided fits nicely in regards to your ideal user ( I'm assuming you're using your site to attract potential web development clients ). 
+
+A few small things that I noticed are related to your `<div>` structure and containers. When my screen is greater than the medium bootstrap breakpoint your footer is hovering about 200px above the bottom of the closing body tag. Another little issue that occurs when I change my screen size to mobile. Once that happens I'm able to scroll horizontally, which should not happen on a mobile device. If you check your divs and make sure you're wrapping all of your content and your nav within one overarching div with a class of container it should solve this issue. Here are some points that validator.w3 found related to your site: https://validator.w3.org/nu/?doc=https%3A%2F%2Fjcit.info%2F I would check that link and make those changes.
+
+Overall your site is well made, works and is visually appealing. Great job!
+
+Your overall passing grade across all of your PWP Milestones is 34/40 points (85%).
+
+Milestone 1 - 20%: Tier IV 40(0.2) = 8
+Milestone 2a - 20%: Tier IV 40(0.2) = 8
+Milestone 2b - 10%: Tier III 30(0.1) = 3
+Milestone 3 - 50%: Tier III 30(0.5) = 15

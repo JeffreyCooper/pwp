@@ -45,7 +45,7 @@ Overall your site is well made, works and is visually appealing. Great job!
 
 Your overall passing grade across all of your PWP Milestones is 34/40 points (85%).
 
-Milestone 1 - 20%: Tier IV 40(0.2) = 8
-Milestone 2a - 20%: Tier IV 40(0.2) = 8
-Milestone 2b - 10%: Tier III 30(0.1) = 3
-Milestone 3 - 50%: Tier III 30(0.5) = 15
+* Milestone 1 - 20%: Tier IV 40(0.2) = 8
+* Milestone 2a - 20%: Tier IV 40(0.2) = 8
+* Milestone 2b - 10%: Tier III 30(0.1) = 3
+* Milestone 3 - 50%: Tier III 30(0.5) = 15
